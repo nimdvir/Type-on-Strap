@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Feature images
-feature-img: "assets/img/feature-img/desk-messy.jpeg"
-thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
-tags: [Test, Image]
+feature-img: assets/img/feature-img/desk-messy.jpeg
+thumbnail: assets/img/thumbnails/feature-img/desk-messy.jpeg
+tags:
+  - Test
+  - Image
 categories: Example
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 Hopefully you will find enough information about how to set images in your blog here.

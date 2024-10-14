@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Github
-img: "assets/img/portfolio/github.png"
+img: assets/img/portfolio/github.png
 date: 20-10-2017
-tags: [Lorem]
+tags:
+  - Lorem
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 ![image]({{ page.img | relative_url }})

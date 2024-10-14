@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Ninja
-img: "assets/img/portfolio/ninja.png"
+img: assets/img/portfolio/ninja.png
 date: April, 08 2014
-tags: [Lorem]
+tags:
+  - Lorem
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 ![image]({{ page.img | relative_url }})

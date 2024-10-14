@@ -4,7 +4,11 @@ title: What's your title
 hide_title: true
 feature-img: assets/img/feature-img/story.jpeg
 author: mhagnumdw
-tags: [Test, Image]
+tags:
+  - Test
+  - Image
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 This is an example of a post which includes a feature image that has a

@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Sample post
-tags: [A Tag, Katex]
+tags:
+  - A Tag
+  - Katex
 excerpt_separator: <!--more-->
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 

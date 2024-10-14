@@ -3,10 +3,13 @@ layout: page
 title: Gallery
 subtitle: From the pexels folder
 permalink: /gallery/
-gallery_path: "assets/img/pexels"
+gallery_path: assets/img/pexels
 excluded: true
 position: 3
-tags: [Page]
+tags:
+  - Page
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 This is a photo gallery made from the static files in the `assets/img/pexels` folder. 

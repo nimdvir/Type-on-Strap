@@ -2,9 +2,13 @@
 layout: post
 title: Tech Stuff example
 color: rgb(250, 50, 50)
-feature-img: "assets/img/feature-img/circuit.jpeg"
-thumbnail: "assets/img/thumbnails/feature-img/circuit.jpeg"
-tags: [Highlight, Markdown]
+feature-img: assets/img/feature-img/circuit.jpeg
+thumbnail: assets/img/thumbnails/feature-img/circuit.jpeg
+tags:
+  - Highlight
+  - Markdown
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 Let's demo some code snippet, with some mermaid diagrams.

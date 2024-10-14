@@ -1,10 +1,14 @@
 ---
 layout: post
 title: The Real Lorem Ipsum
-tags: [Image, Color]
+tags:
+  - Image
+  - Color
 color: turquoise
 excerpt_separator: <!--more-->
 categories: Demo
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 ## Lorem Ipsum

@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Jekyll
-feature-img: "assets/img/portfolio/cabin.png"
-img: "assets/img/portfolio/cabin.png"
+feature-img: assets/img/portfolio/cabin.png
+img: assets/img/portfolio/cabin.png
 date: 2017-05-26
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 

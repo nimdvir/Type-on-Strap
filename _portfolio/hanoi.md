@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Tower of Hanoi
-img: "assets/img/portfolio/toh.png"
+img: assets/img/portfolio/toh.png
 date: September 2014
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 The tower of Hanoi...

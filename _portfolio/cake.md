@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Cake
-feature-img: "assets/img/portfolio/cake.png"
-img: "assets/img/portfolio/cake.png"
+feature-img: assets/img/portfolio/cake.png
+img: assets/img/portfolio/cake.png
 date: 27 September 2015
-tags: [Lorem, Ipsum]
+tags:
+  - Lorem
+  - Ipsum
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 

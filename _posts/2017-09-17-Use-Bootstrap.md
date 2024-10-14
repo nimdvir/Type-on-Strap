@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Bootstrap"
+title: Bootstrap
 bootstrap: true
-tags: [Test]
+tags:
+  - Test
 categories: Demo
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 This theme is compatible with Bootstrap if you choose to use it in your pages or posts.
@@ -26,7 +29,7 @@ Here is an example from [startbootstrap.com](https://startbootstrap.com/snippets
   <div class="row">
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a href="#"><img class="card-img-top" src="_media-sync_resources/2024/08/06/165013/56523.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="#">Project One</a>
@@ -37,7 +40,7 @@ Here is an example from [startbootstrap.com](https://startbootstrap.com/snippets
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a href="#"><img class="card-img-top" src="_media-sync_resources/2024/08/06/165013/29287.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="#">Project Two</a>
@@ -48,7 +51,7 @@ Here is an example from [startbootstrap.com](https://startbootstrap.com/snippets
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a href="#"><img class="card-img-top" src="_media-sync_resources/2024/08/06/165013/53778.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="#">Project Three</a>
@@ -59,7 +62,7 @@ Here is an example from [startbootstrap.com](https://startbootstrap.com/snippets
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a href="#"><img class="card-img-top" src="_media-sync_resources/2024/08/06/165013/36195.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="#">Project Four</a>
@@ -70,7 +73,7 @@ Here is an example from [startbootstrap.com](https://startbootstrap.com/snippets
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a href="#"><img class="card-img-top" src="_media-sync_resources/2024/08/06/165013/53720.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="#">Project Five</a>
@@ -81,7 +84,7 @@ Here is an example from [startbootstrap.com](https://startbootstrap.com/snippets
     </div>
     <div class="col-lg-6 mb-4">
       <div class="card h-100">
-        <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
+        <a href="#"><img class="card-img-top" src="_media-sync_resources/2024/08/06/165013/12540.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="#">Project Six</a>

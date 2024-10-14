@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Tic tac toe
-feature-img: "assets/img/portfolio/ttt.png"
-img: "assets/img/portfolio/ttt.png"
+feature-img: assets/img/portfolio/ttt.png
+img: assets/img/portfolio/ttt.png
 date: September 2014
+created: 2024-08-05T11:43
+updated: 2024-08-06T16:50
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
